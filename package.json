@@ -17,6 +17,12 @@
     "tailwindcss": "^3.4.4"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19"
+    "@eslint/compat": "^1.1.0",
+    "@eslint/js": "^9.6.0",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^9.6.0",
+    "eslint-plugin-react": "^7.34.3",
+    "globals": "^15.8.0",
+    "typescript-eslint": "^7.15.0"
   }
 }

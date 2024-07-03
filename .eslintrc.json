@@ -1,3 +1,11 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "rules": {
+    // Add your custom rules here, if any
+  },
+  "overrideConfig": {
+    "linterOptions": {
+      "reportUnusedDisableDirectives": true
+    }
+  }
 }
